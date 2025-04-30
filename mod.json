@@ -1,0 +1,11 @@
+{
+  "manifest_version": 1,
+  "name": "Gwyn Background Music",
+  "version": "1.0",
+  "author": "T0ret0",
+  "description": "Tema de Gwyn como música de fundo para o Opera GX.",
+  "music": {
+    "path": "gwyn_theme.ogg",
+    "loop": true
+  }
+}
